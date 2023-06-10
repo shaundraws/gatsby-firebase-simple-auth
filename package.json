@@ -6,7 +6,7 @@
   "dependencies": {
     "dotenv-webpack": "^1.7.0",
     "firebase": "^7.5.0",
-    "gatsby": "^2.18.4",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-create-client-paths": "^2.1.17",
     "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-firebase": "^0.1.5",
